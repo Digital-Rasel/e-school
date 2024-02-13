@@ -1,0 +1,81 @@
+.container{
+    margin-bottom: 100px;
+}
+.navbar img{
+    width: 180px;
+}
+.sign-in{
+    border: none;
+    padding: 12px 28px 12px 28px;
+    background-color:#21B573;
+    border-radius: 33px;
+    color: white;
+}
+#Illustration img{
+    width: 554px;
+    height: 364px;
+}
+.learn{
+    color:#FD511A;
+}
+.any{
+    color:#21B573;
+}
+#card img{
+    width: 66px;
+    height: 85px;
+}
+#card{
+    text-align: center;
+    background-color:#F8FFFB;
+    padding: 30px 10px;
+    border: none;
+    box-shadow: 2px 2px 40px gray;
+}
+.text-body-secondary img{
+    height: 24px;
+    width: 24px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.last-card h1{
+    text-align: center;
+}
+#top-img{
+    width: 300px;
+    height: 234px;
+    margin: auto;
+    margin-top: 20px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgb(219, 218, 218);
+}
+.testimonial h1{
+    text-align: center;
+}
+.testimonial img{
+    width: 120px;
+    height: 120px;
+}
+li{
+    list-style: none;
+}
+.footer{
+    height: 369px;
+    background-color: rgb(44, 41, 41);
+    color: white;
+}
+#last{
+    padding: 90px;
+}
+footer{
+    background-color: rgb(44, 41, 41) ;
+    color: white;
+}
+.copyright{
+    text-align: center;
+}
